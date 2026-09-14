@@ -47,7 +47,7 @@ Atualmente focado em desenvolvimento de software, automações e construção de
 ## 🌐 Contato
 
 <p align="left">
-<a href="in/raphael-scharf-passos-70902227b">
+<a href="">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="mailto:raphaspassos@gmail.com">
